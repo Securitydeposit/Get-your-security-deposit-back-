@@ -253,7 +253,7 @@
 <p>Answer a few questions to find out how you may be able to get your security deposit back.  Here is a link if you have additional questions about Security Deposit law in Rhode Island. <a href="http://brown.edu/Administration/Auxiliary_Housing/documents/LTHandbook.pdf">RI Security Deposit Law Overview</a> </p>
 
 
-<p>Damages: <a href=https://law.justia.com/codes/rhode-island/2012/title-34/chapter-34-18/chapter-34-18-19/> Chapter 34-18-19</a>  RI law may allow you to recover not only your security deposit but also damages up to two times your security deposit and possibly reasonable attorney fees if you retain a lawyer.  (i.e $1000 security deposit was not returned, a court may award the $1000 security deposit, the court may also award up to 2x the security deposit held so in this case up to $2000 may be awarded in addition to the original security deposit, the court may also allow reasonable attorney fees if you are represented by an attorney.) 
+<p>Damages: <a href="https://law.justia.com/codes/rhode-island/2012/title-34/chapter-34-18/chapter-34-18-19/"> Chapter 34-18-19</a>  RI law may allow you to recover not only your security deposit but also damages up to two times your security deposit and possibly reasonable attorney fees if you retain a lawyer.  (i.e $1000 security deposit was not returned, a court may award the $1000 security deposit, the court may also award up to 2x the security deposit held so in this case up to $2000 may be awarded in addition to the original security deposit, the court may also allow reasonable attorney fees if you are represented by an attorney.) 
 
 
 <p>Answer the following questions to see if you qualify to submit a demand letter to to your landlord, this may take up to 10 minutes.</p>
